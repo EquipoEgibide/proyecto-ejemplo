@@ -1,2 +1,3 @@
-# proyecto-ejemplo
+# Proyecto de ejemplo
+
 Nuestro gran trabajo.
