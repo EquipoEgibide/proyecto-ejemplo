@@ -1,2 +1,3 @@
-# proyecto-ejemplo
+# SuperProyecto
+
 Nuestro gran trabajo.
